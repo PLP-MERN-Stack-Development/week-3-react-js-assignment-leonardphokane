@@ -4,6 +4,11 @@ A responsive React.js application built with Tailwind CSS, leveraging reusable c
 
 ---
 
+🚀 Deployed on Vercel: [https://your-app-url.vercel.app](https://your-app-url.vercel.app)
+
+
+---
+
 ## 🚀 Tech Stack
 
 - **React.js** — Component-based architecture
@@ -17,11 +22,13 @@ A responsive React.js application built with Tailwind CSS, leveraging reusable c
 
 ## 🧩 Features
 
-- 🌈 Theme toggling via `ThemeContext`
-- 🤹 Fetch and display jokes with `useEffect`
-- 📦 Constants management via `constants.ts`
-- 💅 Responsive design with Tailwind
-- 🧱 Modular folder structure
+- 🧱 Component-based architecture (Button, Card, Modal, etc.)
+- 🎭 ThemeContext with light/dark mode support
+- 📋 TaskManager page for managing user tasks
+- 🤪 API integration with JokeAPI for real-time jokes
+- 💅 Tailwind-powered styling with reusable utility classes
+- ⚡️ Vite for optimized bundling and dev experience
+
 
 ---
 
@@ -34,7 +41,36 @@ src/ ├── components/ # Reusable UI components ├── context/ # ThemeCo
 
 ## 🌍 Live Demo
 
-[Visit deployed app](https://your-vercel-url.vercel.app)
+[Visit deployed app](https://zulutech-fintech.vercel.app)  
+[![Vercel](https://vercelbadge.vercel.app/api/zulutech-fintech.vercel.app)](https://zulutech-fintech.vercel.app)
+
+
+
+---
+ 
+## 🖼️ Screenshots
+
+| Homepage | Flow UX | Completion |
+|----------|---------|------------|
+| ![Homepage](src/assets/home.png) | ![Dropdowns](src/assets/flow.png) | ![Success](src/assets/success.png) |
+
+> From a culturally intuitive homepage to dropdown menus guiding the transaction journey, each shimmer and animation in the final screen celebrates user trust and joyful completion.
+
+---
+
+## 📦 Tech Stack
+
+Built with:
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
+
+
+---
+
+Want help refining the captions to echo your presentation vibe? I can weave in Afro-futurist motifs or community-driven phrasing to make it sing 🎶
+
 
 ---
 
