@@ -4,7 +4,9 @@ A responsive React.js application built with Tailwind CSS, leveraging reusable c
 
 ---
 
-🚀 Deployed on Vercel: [https://your-app-url.vercel.app](https://your-app-url.vercel.app)
+🚀 Deployed on Vercel: [zulutech-send-money](https://vercel.com/leonard-phokanes-projects/zulutech-send-money)
+🌍 [Live Demo](https://zulutech-send-money.vercel.app)
+
 
 
 ---
@@ -42,7 +44,8 @@ src/ ├── components/ # Reusable UI components ├── context/ # ThemeCo
 ## 🌍 Live Demo
 
 [Visit deployed app](https://zulutech-fintech.vercel.app)  
-[![Vercel](https://vercelbadge.vercel.app/api/zulutech-fintech.vercel.app)](https://zulutech-fintech.vercel.app)
+[![Vercel](https://vercelbadge.vercel.app/api/leonard-phokanes-projects/zulutech-fintech)](https://zulutech-fintech.vercel.app)
+
 
 
 
@@ -50,9 +53,15 @@ src/ ├── components/ # Reusable UI components ├── context/ # ThemeCo
  
 ## 🖼️ Screenshots
 
-| Homepage | Flow UX | Completion |
-|----------|---------|------------|
-| ![Homepage](src/assets/home.png) | ![Dropdowns](src/assets/flow.png) | ![Success](src/assets/success.png) |
+### Homepage
+![Homepage](src/assets/home.png)
+
+### Flow UX
+![Shimmer Transition](src/assets/shimmer.png)
+
+### Completion
+![Success](src/assets/success.png)
+
 
 > From a culturally intuitive homepage to dropdown menus guiding the transaction journey, each shimmer and animation in the final screen celebrates user trust and joyful completion.
 
