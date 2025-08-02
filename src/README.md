@@ -60,7 +60,10 @@ src/ ├── components/ # Reusable UI components ├── context/ # ThemeCo
 ![Shimmer Transition](src/assets/shimmer.png)
 
 ### Completion
-![Success](src/assets/success.png)
+![Success](src/assets/animated-success.png)
+
+
+
 
 
 > From a culturally intuitive homepage to dropdown menus guiding the transaction journey, each shimmer and animation in the final screen celebrates user trust and joyful completion.
