@@ -53,16 +53,17 @@ src/ ├── components/ # Reusable UI components ├── context/ # ThemeCo
  
 
 
-<h3>🖼️ Screenshots</h3>
+### 🖼️ Screenshots
 
-<h4>Homepage</h4>
-<img src="assets/home.png" width="100%" alt="Homepage"/>
+#### Homepage
+![Homepage](assets/home.png)
 
-<h4>Flow UX</h4>
-<img src="assets/shimmer.png" width="100%" alt="Shimmer Transition"/>
+#### Flow UX
+![Shimmer Transition](assets/shimmer.png)
 
-<h4>Completion</h4>
-<img src="assets/animated-success.png" width="100%" alt="Success"/>
+#### Completion
+![Success](assets/animated-success.png)
+
 
 
 
